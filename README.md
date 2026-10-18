@@ -1,16 +1,27 @@
-## Hi there 👋
+## md
+### Hi, I'm Ismail from Kano 👋
 
-<!--
-**ismailabdulazizlurwan73-design/ismailabdulazizlurwan73-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Designer | Bug Hunter in Training | Building with phone
 
-Here are some ideas to get you started:
+> Phone-first creator. No laptop, no excuses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**What I do:**
+- 🎨 Design (Graphics / UI)
+- 🔍 GitHub Security Hunting (Vercel / Next.js)
+- 🚀 Learning to ship websites with Next.js + Vercel
+
+**Currently:**
+- Learning Next.js code search
+- Building my portfolio to .vercel.app
+- Goal: First $50 bounty
+
+**Tools I use on phone:**
+GitHub Mobile • Vercel • Figma
+
+📍 Kano, Nigeria
+💬 Open to small design & website jobs
+
+---
+*This profile was built 100% on Android.*
+
 -->
